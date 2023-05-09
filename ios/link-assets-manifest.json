@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/CircularStd-Bold.ttf",
+      "sha1": "5835fba2ecaa73eccaa97501aaabb5299bc2ceea"
+    },
+    {
+      "path": "src/assets/fonts/CircularStd-Book.ttf",
+      "sha1": "53e8b5c172c347b9c327673a1522c566a52e6657"
+    },
+    {
+      "path": "src/assets/fonts/CircularStd-Medium.ttf",
+      "sha1": "41c6ce9d98143129b26c2660e4a7fe8695b64df3"
+    },
+    {
+      "path": "src/assets/fonts/Credit-Card.otf",
+      "sha1": "40e4409c87f56b7951897a68f10ab1bc3fa3c974"
+    },
+    {
+      "path": "src/assets/fonts/Gilroy-ExtraBold.otf",
+      "sha1": "14148f0345ef57bc493496224d07e4179a12e7f5"
+    }
+  ]
+}
