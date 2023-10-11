@@ -1,0 +1,21 @@
+export const colors = {
+    white: '#FFFFFF',
+    green: '#30DB5B',
+    lightGreen: '#ACF1BD',
+    violet: '#727AE4',
+    yellow: '#FFC043',
+    bgViolet: '#4F59DD',
+    avatarBg: '#7B61FF',
+    background: '#171819',
+    passcodeBg: '#454647',
+    knobBg: '#464749',
+    greyText: '#A2A3A3',
+    greyBg: '#232426',
+    homeBg: '#0F0F10',
+    borderColor: '#222222',
+    buttonDisabled: '#2E2F31',
+    darkGreyBg: '#2E2E2E',
+    pink: '#FF6B6B',
+    red: '#EA445A',
+    modalBg: 'rgba(15, 15, 16, 0.85)' //rgb value of "homeBg" with an opacity of 0.65
+}

@@ -13,7 +13,7 @@ import {
   useNavigation,
 } from "@react-navigation/native";
 import { enableScreens } from "react-native-screens";
-import { SectionListPlayGround } from "screens/sectionlist";
+import { Tabs } from "./Stacks";
 
 enableScreens();
 export const navigationRef = createNavigationContainerRef();
@@ -53,12 +53,12 @@ function App() {
   return (
     <View {...panResponder.panHandlers} style={{ flex: 1 }}>
       <Navigator
-        initialRouteName="sectionList"
+        initialRouteName="Tabs"
         screenOptions={{
           headerShown: false,
           gestureEnabled: true,
         }}>
-        <Screen name="sectionList" component={SectionListPlayGround} />
+        <Screen name="Tabs" component={Tabs} />
       </Navigator>
     </View>
   );

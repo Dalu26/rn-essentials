@@ -8,7 +8,9 @@
       "screens": ["screens"],
       "libs": ["libs"],
       "data": ["data"],
-      "navigation": ["navigation"]
+      "navigation": ["navigation"],
+      "svgs": ["assets/svgs"],
+      "utils": ["utils"]
     }
   },
   "extends": "@tsconfig/react-native/tsconfig.json"
